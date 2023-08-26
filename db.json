@@ -1,0 +1,144 @@
+{
+  "dogs": [
+    {
+      "name": "Kaylie",
+      "image": "/src/assets/corgi.png",
+      "description": "Glens Northeast Cambridgeshire hack Practical withdrawal Montana",
+      "isFavorite": false,
+      "id": 0
+    },
+    {
+      "name": "Lisandro",
+      "image": "/src/assets/dalmation.png",
+      "description": "Gender in Dollar national Eritrea",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Timmothy",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "West moist Electronics Liechtenstein quantifying",
+      "isFavorite": false,
+      "id": 2
+    },
+    {
+      "name": "Sam",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Cambridgeshire Cronin North South Shoes colorless Customizable Facilitator",
+      "isFavorite": false,
+      "id": 3
+    },
+    {
+      "name": "Zack",
+      "image": "/src/assets/corgi.png",
+      "description": "methodologies Plastic bandwidth ivory ick",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Letitia",
+      "image": "/src/assets/boxer.png",
+      "description": "Borders Cadillac Ethiopian SUV thoroughly explicit woman",
+      "isFavorite": false,
+      "id": 5
+    },
+    {
+      "name": "Dock",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "pixel salmon sometimes groupware generating SUV Shoals",
+      "isFavorite": true,
+      "id": 6
+    },
+    {
+      "name": "Christophe",
+      "image": "/src/assets/dalmation.png",
+      "description": "Borders Table Cisgender Michel AGP Division Ameliorated yellow",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "name": "Eda",
+      "image": "/src/assets/dalmation.png",
+      "description": "provided Guernsey monitor driver plum Sleek Account",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Preston",
+      "image": "/src/assets/cowardly.png",
+      "description": "transmitter hm Southwest Cyclocross West",
+      "isFavorite": true,
+      "id": 9
+    },
+    {
+      "name": "Deja",
+      "image": "/src/assets/dalmation.png",
+      "description": "consequently Coordinator repurpose series male",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Jacynthe",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "monitor fuel implement Mendelevium Northeast Faso Reggae Analyst",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "London",
+      "image": "/src/assets/dalmation.png",
+      "description": "plum Regional Ytterbium Country male Handmade yum protocol",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "name": "Elizabeth",
+      "image": "/src/assets/boxer.png",
+      "description": "primary Mississippi beside distinctio Bicycle Estates Tesla",
+      "isFavorite": true,
+      "id": 13
+    },
+    {
+      "name": "Toy",
+      "image": "/src/assets/boxer.png",
+      "description": "API Coupe program before Bugatti Schaden Chrysler",
+      "isFavorite": true,
+      "id": 14
+    },
+    {
+      "name": "Hoyt",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Luxurious nesciunt Investment Diesel Tala transmitter hour",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "name": "Katelin",
+      "image": "/src/assets/corgi.png",
+      "description": "Electric Diesel Transgender Island tan auxiliary Direct",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "name": "Jamir",
+      "image": "/src/assets/dalmation.png",
+      "description": "Usability Sausages Pedro Devolved Praseodymium Bicycle Bermuda indexing",
+      "isFavorite": true,
+      "id": 17
+    },
+    {
+      "name": "Denis",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "on volt reboot embrace Oxygen",
+      "isFavorite": false,
+      "id": 18
+    },
+    {
+      "name": "Sylvan",
+      "image": "/src/assets/corgi.png",
+      "description": "silver Bedfordshire SAS Northeast red extensible Investor Industrial",
+      "isFavorite": false,
+      "id": 19
+    }
+  ]
+}
